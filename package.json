@@ -1,0 +1,19 @@
+{
+  "name": "music-chat-server",
+  "version": "1.0.0",
+  "description": "Server for MusicChat android and ios application",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishigoswamiofficial/music-chat-server.git"
+  },
+  "author": "Rishi Goswami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishigoswamiofficial/music-chat-server/issues"
+  },
+  "homepage": "https://github.com/rishigoswamiofficial/music-chat-server#readme"
+}
