@@ -4,6 +4,7 @@
   "description": "Server for MusicChat android and ios application",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "mocha"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/rishigoswamiofficial/music-chat-server/issues"
   },
-  "homepage": "https://github.com/rishigoswamiofficial/music-chat-server#readme"
+  "homepage": "https://github.com/rishigoswamiofficial/music-chat-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.18.3"
+  }
 }
